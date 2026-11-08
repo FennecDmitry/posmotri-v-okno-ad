@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@theme {
+  --color-wine-950: #12060a;
+  --color-wine-900: #1f0b12;
+  --color-wine-800: #33121d;
+  --color-wine-700: #4d1c2d;
+  --color-copper-300: #e3b3a1;
+  --color-copper-400: #d4937a;
+  --color-copper-500: #b86b4f;
+  --color-copper-600: #9a5239;
+
+  --font-sans: var(--font-sans), sans-serif;
+  --font-serif: var(--font-serif), serif;
+}
+
+html {
+  color-scheme: dark;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-wine-950);
+}
+
+@keyframes shine {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+.animate-shine {
+  background: linear-gradient(120deg, #d4937a 30%, #ffffff 50%, #d4937a 70%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shine 6s linear infinite;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { 
+    box-shadow: 0 0 0 0 rgba(184, 107, 79, 0.4);
+    transform: scale(1);
+  }
+  50% { 
+    box-shadow: 0 0 20px 5px rgba(184, 107, 79, 0.5);
+    transform: scale(1.02);
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 4s ease-in-out infinite;
+}

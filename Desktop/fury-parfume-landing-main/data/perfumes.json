@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ella-k-parfums-musc-k",
+    "brand": "Ella K Parfums",
+    "name": "Musc K",
+    "image": "/images/ella-k-parfums-musc-k.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 1500 },
+      { "volume": "10 ml", "price": 3000 }
+    ]
+  },
+  {
+    "id": "viktor-rolf-spicebomb-men",
+    "brand": "Viktor & Rolf",
+    "name": "Spicebomb Men",
+    "image": "/images/viktor-rolf-spicebomb-men.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 750 },
+      { "volume": "10 ml", "price": 1500 }
+    ]
+  },
+  {
+    "id": "attar-collection-musk-kashmir",
+    "brand": "Attar Collection",
+    "name": "Musk Kashmir",
+    "image": "/images/attar-collection-musk-kashmir.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 1000 },
+      { "volume": "10 ml", "price": 2000 }
+    ]
+  },
+  {
+    "id": "givenchy-garcon-manque",
+    "brand": "Givenchy",
+    "name": "Garçon Manqué",
+    "image": "/images/givenchy-garcon-manque.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2500 },
+      { "volume": "10 ml", "price": 5000 }
+    ]
+  },
+  {
+    "id": "parfums-de-marly-althair",
+    "brand": "Parfums de Marly",
+    "name": "Althaïr",
+    "image": "/images/parfums-de-marly-althair.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 1500 },
+      { "volume": "10 ml", "price": 3000 }
+    ]
+  },
+  {
+    "id": "mancera-red-tobacco",
+    "brand": "Mancera",
+    "name": "Red Tobacco",
+    "image": "/images/mancera-red-tobacco.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 750 },
+      { "volume": "10 ml", "price": 1500 }
+    ]
+  },
+  {
+    "id": "mancera-cedrat-boise",
+    "brand": "Mancera",
+    "name": "Cedrat Boise",
+    "image": "/images/mancera-cedrat-boise.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 750 },
+      { "volume": "10 ml", "price": 1500 }
+    ]
+  },
+  {
+    "id": "tom-ford-ombre-leather",
+    "brand": "Tom Ford",
+    "name": "Ombré Leather",
+    "image": "/images/tom-ford-ombre-leather.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 1500 },
+      { "volume": "10 ml", "price": 3000 }
+    ]
+  },
+  {
+    "id": "initio-side-effect",
+    "brand": "Initio Parfums Privés",
+    "name": "Side Effect",
+    "image": "/images/initio-side-effect.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2000 },
+      { "volume": "10 ml", "price": 4000 }
+    ]
+  },
+  {
+    "id": "initio-wild-rush",
+    "brand": "Initio Parfums Privés",
+    "name": "Wild Rush",
+    "image": "/images/initio-wild-rush.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2500 },
+      { "volume": "10 ml", "price": 5000 }
+    ]
+  },
+  {
+    "id": "clive-christian-rock-rose",
+    "brand": "Clive Christian",
+    "name": "Noble Collection Rock Rose",
+    "image": "/images/clive-christian-rock-rose.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 3500 },
+      { "volume": "10 ml", "price": 7000 }
+    ]
+  },
+  {
+    "id": "clive-christian-blonde-amber",
+    "brand": "Clive Christian",
+    "name": "Noble Collection Blonde Amber",
+    "image": "/images/clive-christian-blonde-amber.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 4500 },
+      { "volume": "10 ml", "price": 9000 }
+    ]
+  },
+  {
+    "id": "maison-crivelli-hibiscus-mahajad",
+    "brand": "Maison Crivelli",
+    "name": "Hibiscus Mahajád",
+    "image": "/images/maison-crivelli-hibiscus-mahajad.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 3500 },
+      { "volume": "10 ml", "price": 7000 }
+    ]
+  },
+  {
+    "id": "essential-parfums-bois-imperial",
+    "brand": "Essential Parfums",
+    "name": "Bois Impérial (Refillable)",
+    "image": "/images/essential-parfums-bois-imperial.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 750 },
+      { "volume": "10 ml", "price": 1500 }
+    ]
+  },
+  {
+    "id": "parfums-de-marly-castley",
+    "brand": "Parfums de Marly",
+    "name": "Castley",
+    "image": "/images/parfums-de-marly-castley.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 1500 },
+      { "volume": "10 ml", "price": 3000 }
+    ]
+  },
+  {
+    "id": "parfums-de-marly-percival",
+    "brand": "Parfums de Marly",
+    "name": "Percival",
+    "image": "/images/parfums-de-marly-percival.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 1500 },
+      { "volume": "10 ml", "price": 3000 }
+    ]
+  },
+  {
+    "id": "hormone-paris-this-is-not-gaba",
+    "brand": "Hormone Paris",
+    "name": "This is Not GABA",
+    "image": "/images/hormone-paris-this-is-not-gaba.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2000 },
+      { "volume": "10 ml", "price": 4000 }
+    ]
+  },
+  {
+    "id": "ex-nihilo-blue-talisman",
+    "brand": "Ex Nihilo",
+    "name": "Blue Talisman",
+    "image": "/images/ex-nihilo-blue-talisman.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2500 },
+      { "volume": "10 ml", "price": 5000 }
+    ]
+  },
+  {
+    "id": "marc-antoine-barrois-tilia",
+    "brand": "Marc-Antoine Barrois",
+    "name": "Tilia",
+    "image": "/images/marc-antoine-barrois-tilia.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 1500 },
+      { "volume": "10 ml", "price": 3000 }
+    ]
+  },
+  {
+    "id": "initio-paragon",
+    "brand": "Initio Parfums Privés",
+    "name": "Paragon",
+    "image": "/images/initio-paragon.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2000 },
+      { "volume": "10 ml", "price": 4000 }
+    ]
+  },
+  {
+    "id": "initio-oud-for-greatness",
+    "brand": "Initio Parfums Privés",
+    "name": "Oud for Greatness",
+    "image": "/images/initio-oud-for-greatness.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2000 },
+      { "volume": "10 ml", "price": 4000 }
+    ]
+  },
+  {
+    "id": "creed-aventus",
+    "brand": "Creed",
+    "name": "Aventus",
+    "image": "/images/creed-aventus.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2500 },
+      { "volume": "10 ml", "price": 5000 }
+    ]
+  },
+  {
+    "id": "clive-christian-hedonistic",
+    "brand": "Clive Christian",
+    "name": "Hedonistic",
+    "image": "/images/clive-christian-hedonistic.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 4000 },
+      { "volume": "10 ml", "price": 8000 }
+    ]
+  },
+  {
+    "id": "amouage-reflection-man",
+    "brand": "Amouage",
+    "name": "Reflection Man",
+    "image": "/images/amouage-reflection-man.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2000 },
+      { "volume": "10 ml", "price": 4000 }
+    ]
+  },
+  {
+    "id": "kilian-paris-black-phantom",
+    "brand": "Kilian Paris",
+    "name": "Black Phantom",
+    "image": "/images/kilian-paris-black-phantom.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2500 },
+      { "volume": "10 ml", "price": 5000 }
+    ]
+  },
+  {
+    "id": "kilian-paris-smoking-hot",
+    "brand": "Kilian Paris",
+    "name": "Smoking Hot",
+    "image": "/images/kilian-paris-smoking-hot.jpg",
+    "variants": [
+      { "volume": "5 ml", "price": 2500 },
+      { "volume": "10 ml", "price": 5000 }
+    ]
+  }
+]
